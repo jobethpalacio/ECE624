@@ -1,2 +1,2 @@
 # ECE624
-Project
+Project involving Fiduccia and Mattheyses Algorithm for circuit partitioning
